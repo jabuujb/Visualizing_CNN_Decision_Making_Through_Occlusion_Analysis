@@ -136,7 +136,7 @@ pip install -r requirements.txt
 
 The accompanying report provides a detailed analysis of CNN interpretability using occlusion sensitivity techniques. It includes experimental procedures, visualizations, classification confidence results, observations, and conclusions regarding feature importance in VGG16 image classification.
 
-📄 **CNN_Occlusion_Sensitivity_Analysis_Report.pdf**
+📄 [CNN Occlusion Sensitivity Analysis Report](report/CNN_Occlusion_Sensitivity_Analysis_Report.pdf)
 
 ---
 
