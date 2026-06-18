@@ -119,7 +119,7 @@ The accompanying report provides a detailed analysis of CNN interpretability usi
 
 [3] Keras Applications Documentation (VGG16). Available: https://keras.io/api/applications/vgg/
 
-Author
+## Author
 Justin Ogle
 
 M.S. Electrical Engineering (Automation & Robotics)
