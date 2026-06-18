@@ -1,2 +1,3 @@
-# Visualizing_CNN_Decision_Making_Through_Occlusion_Analysis
-Investigates CNN image classification behavior using occlusion sensitivity analysis with VGG16. Gray-mask experiments reveal which image regions most influence object recognition and prediction confidence.
+# Visualizing CNN Decision Making Through Occlusion Analysis
+
+This project explores how Convolutional Neural Networks (CNNs) make image classification decisions by systematically masking regions of an image and observing changes in model predictions. Using a pre-trained VGG16 network and MATLAB sample images (`peppers.png` and `llama.jpg`), occlusion sensitivity experiments were performed with multiple mask sizes to identify which image features contribute most strongly to classification confidence. The project demonstrates fundamental concepts in Explainable AI (XAI), computer vision, deep learning interpretability, and neural network visualization.
