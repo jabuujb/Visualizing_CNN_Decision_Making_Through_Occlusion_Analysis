@@ -57,6 +57,17 @@ The *llama.jpg* image generally maintained higher classification confidence unde
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly\&logoColor=white)
 
+
+## Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
+![VGG16](https://img.shields.io/badge/VGG16-ImageNet-orange)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CNN-blue)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-XAI-green)
 ---
 
 ## Repository Structure
