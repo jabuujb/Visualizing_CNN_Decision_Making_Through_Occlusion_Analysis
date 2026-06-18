@@ -69,6 +69,20 @@ The *llama.jpg* image generally maintained higher classification confidence unde
 
 ---
 
+## Results
+
+The figures below summarize the occlusion sensitivity analysis performed on the *peppers.png* and *llama.jpg* images. Results include examples of masked images, Mean Feature Sign Change versus Iteration plots for multiple mask sizes, and classification confidence comparisons.
+
+<p align="center">
+  <img width="1284" height="801" alt="results" src="https://github.com/user-attachments/assets/d2e3d85b-cc79-4e20-ad0c-db25fb775bac" />
+</p>
+
+<p align="center">
+  <strong>Figure 1.</strong> Occlusion sensitivity analysis results for <em>peppers.png</em> and <em>llama.jpg</em>. The top panels show representative masked images generated using 32×32, 64×64, and 128×128 gray occlusion masks. The middle panels present Mean Feature Sign Change versus Iteration plots, while the bottom panels compare classification confidence across mask sizes. These visualizations illustrate how image occlusion influences CNN prediction behavior and feature sensitivity.
+</p>
+
+---
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
