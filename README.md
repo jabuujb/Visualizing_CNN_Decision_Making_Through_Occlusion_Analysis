@@ -1,4 +1,16 @@
 # Visualizing CNN Decision Making Through Occlusion Analysis
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/peppers.png" width="400"><br>
+      <b>peppers.png</b>
+    </td>
+    <td align="center">
+      <img src="images/llama.jpg" width="400"><br>
+      <b>llama.jpg</b>
+    </td>
+  </tr>
+</table>
 
 ## CNN Occlusion Sensitivity Analysis Using VGG16
 
