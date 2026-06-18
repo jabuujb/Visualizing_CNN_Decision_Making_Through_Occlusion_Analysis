@@ -57,6 +57,18 @@ The *llama.jpg* image generally maintained higher classification confidence unde
 
 ---
 
+## Sample Occlusion Results
+
+<p align="center">
+  <img src="images/Masked_Images_Processed.png" alt="Masked Image Processing Results" width="800">
+</p>
+
+<p align="center">
+  <strong>Figure 1.</strong> Example occlusion sensitivity analysis results for <em>peppers.png</em> and <em>llama.jpg</em>. Gray masks are applied to image regions while a pre-trained VGG16 network generates updated classification predictions and confidence scores.
+</p>
+
+---
+
 ## Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
