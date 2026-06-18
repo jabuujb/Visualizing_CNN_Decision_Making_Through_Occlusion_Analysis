@@ -1,3 +1,4 @@
+<img width="739" height="407" alt="Masked Images Processed" src="https://github.com/user-attachments/assets/7e39ae9a-9421-4b56-bd21-a177bc0374fd" />
 # Visualizing CNN Decision Making Through Occlusion Analysis
 <table>
   <tr>
@@ -60,7 +61,7 @@ The *llama.jpg* image generally maintained higher classification confidence unde
 ## Sample Occlusion Results
 
 <p align="center">
-  <img src="images/Masked_Images_Processed.png" alt="Masked Image Processing Results" width="800">
+  <img width="739" height="407" alt="Masked Images Processed" src="https://github.com/user-attachments/assets/7581e137-2a50-49cf-8c52-02faa454c1e1" />
 </p>
 
 <p align="center">
