@@ -136,7 +136,7 @@ pip install -r requirements.txt
 
 The accompanying report provides a detailed analysis of CNN interpretability using occlusion sensitivity techniques. It includes experimental procedures, visualizations, classification confidence results, observations, and conclusions regarding feature importance in VGG16 image classification.
 
-📄 [CNN Occlusion Sensitivity Analysis Report](report/CNN_Occlusion_Sensitivity_Analysis_Report.pdf)
+📄 [CNN Occlusion Sensitivity Analysis Report](report/CNN_Occlusion_Sensitivity_Analysis_Report.pdf) (6 pages)
 
 ---
 
@@ -149,9 +149,17 @@ The accompanying report provides a detailed analysis of CNN interpretability usi
 [3] Keras Applications Documentation (VGG16). Available: https://keras.io/api/applications/vgg/
 
 ## Author
-Justin Ogle
+
+**Justin Ogle**
 
 M.S. Electrical Engineering (Automation & Robotics)
+
+Areas of Interest:
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Robotics
+- Defense Analytics
 
 LinkedIn: https://www.linkedin.com/in/justin-ogle-b78233b0
 
