@@ -1,14 +1,10 @@
 # Visualizing CNN Decision Making Through Occlusion Analysis
 
-This project explores how Convolutional Neural Networks (CNNs) make image classification decisions by systematically masking regions of an image and observing changes in model predictions. Using a pre-trained VGG16 network and MATLAB sample images (`peppers.png` and `llama.jpg`), occlusion sensitivity experiments were performed with multiple mask sizes to identify which image features contribute most strongly to classification confidence. The project demonstrates fundamental concepts in Explainable AI (XAI), computer vision, deep learning interpretability, and neural network visualization.
-
-# Visualizing CNN Decision Making Through Occlusion Analysis
-
 ## CNN Occlusion Sensitivity Analysis Using VGG16
 
 This project investigates how Convolutional Neural Networks (CNNs) make image classification decisions through occlusion sensitivity analysis. Using a pre-trained VGG16 model, portions of two images (*peppers.png* and *llama.jpg*) are systematically masked with gray squares of varying sizes. Changes in classification confidence and predicted classes are analyzed to identify which image regions contribute most strongly to object recognition.
 
-The methodology is inspired by the work of Zeiler and Fergus in *Visualizing and Understanding Convolutional Networks* and demonstrates how visualization techniques can improve understanding of CNN feature extraction, model interpretability, and Explainable Artificial Intelligence (XAI).
+The methodology is inspired by the work of Zeiler and Fergus in *Visualizing and Understanding Convolutional Networks* and demonstrates how visualization techniques can improve understanding of CNN feature extraction, model interpretability, and Explainable Artificial Intelligence (XAI). The project demonstrates fundamental concepts in computer vision, deep learning interpretability, neural network visualization, and model explainability.
 
 ---
 
